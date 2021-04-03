@@ -1,0 +1,29 @@
+﻿@if (Orders != null && Orders.Count() > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Date Placed</th>
+                <th>Order Id</th>
+                <th>Country</th>
+                <th>State / Province</th>
+                <th>City</th>
+                <th>Customer Name</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+
+
+    </table>
+
+}
+
+
+
+@code {
+
+    [Parameter]
+    public IEnumerable<Order> Orders { get; set; }
+
+
+}

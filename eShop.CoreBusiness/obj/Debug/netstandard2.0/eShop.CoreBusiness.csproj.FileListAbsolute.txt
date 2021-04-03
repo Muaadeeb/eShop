@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.deps.json
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse\MyFirstBlazorApp\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.deps.json
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\bin\Debug\netstandard2.0\eShop.CoreBusiness.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.CoreBusiness\obj\Debug\netstandard2.0\eShop.CoreBusiness.pdb
