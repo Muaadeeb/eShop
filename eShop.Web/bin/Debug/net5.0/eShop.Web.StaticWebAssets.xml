@@ -1,6 +1,7 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\obj\Debug\net5.0\scopedcss\bundle\" />
   <ContentRoot BasePath="_content/eShop.ShoppingCart.LocalStorage" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.ShoppingCart.LocalStorage\wwwroot\" />
+  <ContentRoot BasePath="_content/eShop.Web.AdminPortal" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\wwwroot\" />
   <ContentRoot BasePath="_content/eShop.Web.Common" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\scopedcss\projectbundle\" />
   <ContentRoot BasePath="_content/eShop.Web.Common" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\wwwroot\" />
   <ContentRoot BasePath="_content/eShop.Web.CustomerPortal" Path="C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Debug\net5.0\scopedcss\projectbundle\" />

@@ -19,6 +19,20 @@ using Microsoft.AspNetCore.Components.Web;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\_Imports.razor"
+using Microsoft.AspNetCore.Components.Forms;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\_Imports.razor"
+using eShop.Web.Common.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     public partial class _Imports : System.Object
     {
         #pragma warning disable 1998

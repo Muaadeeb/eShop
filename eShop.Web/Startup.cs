@@ -2,6 +2,9 @@ using eShop.CoreBusiness.Services;
 using eShop.CoreBusiness.Services.Interfaces;
 using eShop.DataStore.HardCoded;
 using eShop.StateStore.DI;
+using eShop.UseCases.AdminPortal.OrderDetailScreen;
+using eShop.UseCases.AdminPortal.OutstandingOrderScreen;
+using eShop.UseCases.AdminPortal.ProcessedOrdersScreen;
 using eShop.UseCases.OrderConfirmationScreen;
 using eShop.UseCases.PluginInterfaces.DataStore;
 using eShop.UseCases.PluginInterfaces.StateStore;
@@ -39,6 +42,14 @@ namespace eShop.Web
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers(); // used for mvc (see below comments on mvc).
+            services.AddAuthentication("eShop.CookieAuth")
+                .AddCookie("eShop.CookieAuth", config =>
+                {
+                    config.Cookie.Name = "eShop.CookieAuth";
+                    config.LoginPath = "/authenticate";
+                });
+
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
@@ -58,6 +69,14 @@ namespace eShop.Web
             services.AddTransient<IUpdateQuantityUseCase, UpdateQuantityUseCase>();
             services.AddTransient<IPlaceOrderUseCase, PlaceOrderUseCase>();
             services.AddTransient<IViewOrderConfirmationUseCase, ViewOrderConfirmationUseCase>();
+            services.AddTransient<IViewOutstandingOrdersUseCase, ViewOutstandingOrdersUseCase>();
+
+            services.AddTransient<IViewOutstandingOrdersUseCase, ViewOutstandingOrdersUseCase>();
+            services.AddTransient<IViewOrderDetailUseCase, ViewOrderDetailUseCase>();
+            services.AddTransient<IProcessOrderUseCase, ProcessOrderUseCase>();
+            services.AddTransient<IViewProcessedOrdersUseCase, ViewProcessedOrdersUseCase>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -79,8 +98,14 @@ namespace eShop.Web
 
             app.UseRouting();
 
+            // Auths must happen after routings.  
+            app.UseAuthentication(); // Who are you? Now we know who the user is.
+            app.UseAuthorization(); // Do you have access? Now we check to see if known user has access to end points
+
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllers(); // used for mvc auth.
+
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });

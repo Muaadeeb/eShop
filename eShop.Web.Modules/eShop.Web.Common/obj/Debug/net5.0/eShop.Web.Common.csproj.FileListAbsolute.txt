@@ -30,3 +30,6 @@ C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.W
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\eShop.Web.Common.dll
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\ref\eShop.Web.Common.dll
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\eShop.Web.Common.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\eShop.Web.Common.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\RazorDeclaration\Controls\LoginComponent.razor.g.cs
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net5.0\Razor\Controls\LoginComponent.razor.g.cs

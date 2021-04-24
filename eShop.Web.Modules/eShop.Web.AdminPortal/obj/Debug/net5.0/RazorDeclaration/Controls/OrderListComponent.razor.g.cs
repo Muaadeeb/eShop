@@ -34,36 +34,57 @@ using Microsoft.AspNetCore.Components.Forms;
 #line hidden
 #nullable disable
 #nullable restore
+#line 4 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
+using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 5 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
-using eShop.CoreBusiness.Models;
+using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 7 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
-using eShop.Web.Common.Controls;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 8 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
-using eShop.UseCases.AdminPortal.OutstandingOrderScreen;
+using eShop.CoreBusiness.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 9 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
-using eShop.UseCases.AdminPortal.OrderDetailScreen;
+using eShop.Web.Common.Controls;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 10 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
+using eShop.UseCases.AdminPortal.OutstandingOrderScreen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
+using eShop.UseCases.AdminPortal.OrderDetailScreen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
 using eShop.UseCases.AdminPortal.ProcessedOrdersScreen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\_Imports.razor"
+using eShop.Web.AdminPortal.Controls;
 
 #line default
 #line hidden
@@ -76,13 +97,11 @@ using eShop.UseCases.AdminPortal.ProcessedOrdersScreen;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 8 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\Controls\OrderListComponent.razor"
+#line 24 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\Controls\OrderListComponent.razor"
        
 
     [Parameter]
     public IEnumerable<Order> Orders { get; set; }
-
-
 
 #line default
 #line hidden

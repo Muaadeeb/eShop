@@ -79,6 +79,13 @@ using eShop.Web.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\_Imports.razor"
+using eShop.Web.Common.Controls;
+
+#line default
+#line hidden
+#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

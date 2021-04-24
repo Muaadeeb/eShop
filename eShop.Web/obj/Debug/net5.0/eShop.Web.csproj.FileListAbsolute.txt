@@ -78,3 +78,7 @@ C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.W
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\eShop.StateStore.DI.dll
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\eShop.StateStore.DI.pdb
 C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\eShop.Web.AdminPortal.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\eShop.Web.AdminPortal.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\eShop.Web.AdminPortal.StaticWebAssets.xml
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\eShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
