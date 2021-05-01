@@ -18,20 +18,23 @@ namespace eShop.DataStore.SQL.Dapper
 
         public Product GetProduct(int productId)
         {
-            var sql = "Select * from Product Where ProductId = @ProductId";
+            var sql = "Select * from dbo.[Product] Where ProductId = @ProductId";
             return _dataAccess.QuerySingle<Product, dynamic>(sql, new { ProductId = productId });
         }
 
         public IEnumerable<Product> GetProducts(string filter)
         {
             var products = new List<Product>();
+            var sql = string.Empty;
             if (string.IsNullOrWhiteSpace(filter))
             {
-                products = _dataAccess.Query<Product, dynamic>("Select * From Product", new { });
+                sql = "Select * From dbo.[Product]";
+                products = _dataAccess.Query<Product, dynamic>(sql, new { });
             }
             else
             {
-                products = _dataAccess.Query<Product, dynamic>("Select * From Product Where Name like '%' + @Filter + '%'", new { Filter = filter });
+                sql = "Select * From dbo.[Product] Where Name like '%' + @Filter + '%'";
+                products = _dataAccess.Query<Product, dynamic>(sql, new { Filter = filter });
             }
 
             return products.AsEnumerable();

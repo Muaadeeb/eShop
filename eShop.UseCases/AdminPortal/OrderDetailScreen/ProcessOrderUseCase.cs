@@ -21,7 +21,6 @@ namespace eShop.UseCases.AdminPortal.OrderDetailScreen
         public bool Execute(int orderId, string adminUserName)
         {
             var order = _orderRepository.GetOrder(orderId);
-
             order.AdminUser = adminUserName;
             order.DateProcessed = DateTime.Now;
 
@@ -32,7 +31,6 @@ namespace eShop.UseCases.AdminPortal.OrderDetailScreen
             }
 
             return false;
-
         }
     }
 }

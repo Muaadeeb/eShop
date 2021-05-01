@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.DataStore.SQL.Dapper.deps.json
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\ref\eShop.DataStore.SQL.Dapper.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.DataStore.SQL.Dapper.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.CoreBusiness.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.UseCases.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net5.0\eShop.UseCases.pdb
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\ref\eShop.DataStore.SQL.Dapper.dll
+C:\Users\Owner\source\repos\CompleteBlazorCourse_FrankLiu\projects\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net5.0\eShop.DataStore.SQL.Dapper.pdb
